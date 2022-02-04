@@ -1,11 +1,16 @@
-- 👋 Hi, I’m Ezequiel Cardoso;
+- printf("Hi, I’m Ezequiel Cardoso \n");
 
-- I'm studying System Analysis and Development at Unip;
-    - I’m currently learning web development (HTML, CSS, Python/JS);
+- printf("I'm studying System Analysis and Development at Unip \n");
+    - printf("I’m currently learning: ") {
+        - web development (HTML, CSS, Python/JS);
+        - Programmin in C, C++, C#, Java and Python;
+        - Deep Learning; 
+    }
+    
+- printf("You can find me on: \n") {
+    * LinkedIn: https://www.linkedin.com/in/ezequiel-c-silva/;
+    * Facebook: https://www.facebook.com/ezequiel.cardoso.58;
+    * Instagram: @ezequielcardosods;
+} 
 
-- 📫 You can find me on:
-* LinkedIn: https://www.linkedin.com/in/ezequiel-c-silva/;
-* Facebook: https://www.facebook.com/ezequiel.cardoso.58;
-* Instagram: @ezequielcardosods;
-
-I will post my projects as soon as possible. Stay tuned!
+- printf("I will post my projects as soon as possible. Stay tuned!")
